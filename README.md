@@ -7,9 +7,9 @@
 
 |      日期      |                                                活动                                                 |
 | -------------- | -------------------------------------------------------------------------------------------------- |
-| 20190616(w4d0) | [发布bp招募贴]()                                                                                    |
+| 20190616(w4d0) | [发布bp招募贴](https://github.com/livingworld/IA005_Simon/blob/master/delivery/%E6%8B%9B%E5%8B%9F%E8%B4%B4.md)                                                                                    |
 | 20190618(w4d2) | 完成组队      团队成员：hetao，Alex，Trista，卢燕<br>观察员：舟舟，知知知知鸟，慕明昭，小何heshenxian,子微 |
-| 20190618(w4d3) | [发布bp组队成功介绍]()                                                                               |
+| 20190618(w4d3) | [发布bp组队成功介绍](https://github.com/livingworld/IA005_Simon/blob/master/delivery/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md)                                                                               |
 
 ### 执行中
 
