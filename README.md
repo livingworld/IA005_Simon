@@ -15,10 +15,10 @@
 
 | 信分阶段 |      日期      | meeting |                          计划任务                          |      实际执行      |
 | -------- | -------------- | ------- | --------------------------------------------------------- | ----------------- |
-| 信息获取 | 20190616(4wd0) | 小组    | 开始组队                                                   | 于20190618组队完毕 |
-|         | 20190620(4wd4) | 小组    |  [破冰会议纪要](https://github.com/livingworld/IA005_Simon/issues/2)：自我介绍、初心、BP的想法、确定协作工具、熟悉下一步计划 | 达成目标，按数据源的获取途径分工  |
-| | 20190620(4wd4) | 课程组   | 第一次结业 bp 交流会                                        | |
-|          | 20190622(4wd6) | 小组    | 确定详细分工，分头采集数据                                   | [第二次会议纪要](https://github.com/livingworld/IA005_Simon/issues/1)，下一步各成员扩展信息搜索范围，不做限制|
+| 信息获取 | ~~20190616(4wd0)~~| 小组    | 开始组队                                                   | 于20190618组队完毕 |
+|         |~~20190620(4wd4)~~| 小组    | 自我介绍、初心、BP的想法、确定协作工具、熟悉下一步计划 |  [破冰会议纪要](https://github.com/livingworld/IA005_Simon/issues/2)：达成目标，按数据源的获取途径分工  |
+| |~~20190620(4wd4)~~| 课程组   | 第一次结业 bp 交流会                                        | |
+|          |~~20190622(4wd6)~~| 小组    | 确定详细分工，分头采集数据                                   | [第二次会议纪要](https://github.com/livingworld/IA005_Simon/issues/1)，下一步各成员扩展信息搜索范围，不做限制|
 | 信息整理 | 20190625(5wd2) | 小组    | 整合资料， 下一步分工                                       |                   |
 |         | 20190629(5wd6) | 小组    | 深入挖掘,整理文档                                          |                   |
 | 信息加工 | 20190702(6wd2) | 小组    | 开始输出，整理文档                                          |                   |
@@ -47,10 +47,10 @@
 
 | 信息分析步骤 | 实践策略 |
 | ------------ | ------- |
-| **信息获取** |         |
-| **信息整理** |         |
-| **信息加工** |         |
-| **信息报告** |         |
+| **信息获取** | 工具：acemap、citespace<br>渠道：学术论文、知识图谱、专业图书、社会引用<br>信息源：google scholar、web of science、acemap、microsoft academic<br>技巧：批量下载 1000 篇文献、批量阅读 100 篇章文献、抽样阅读法、结构阅读法、深入理解一个术语<br> <br>|
+| **信息整理** |工具：zotero<br>高阶模型：全局认识、交叉验证、时空变量三范式、2*2矩阵、3*3矩阵、4*5原理|
+| **信息加工** | 有趣度    |
+| **信息报告** | |
 
 ## 检索技巧
 
@@ -89,14 +89,15 @@
 
 ## 参考资料
 
-[BP工具箱](https://github.com/happylyy/IA004_blockchain/blob/master/reference/BP%E5%B7%A5%E5%85%B7%E7%AE%B1.md)
+[BP工具箱](https://github.com/livingworld/IA005_Simon/blob/master/reference/BP%E5%B7%A5%E5%85%B7%E7%AE%B1.md)
 
-[会议记录模板](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
+[会议记录模板](https://github.com/livingworld/IA005_Simon/blob/master/reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
 
-[前辈协作案例](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%BE%80%E6%9C%9F%E4%BC%98%E7%A7%80%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
+[前辈协作案例1](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%BE%80%E6%9C%9F%E4%BC%98%E7%A7%80%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
+
+[前辈协作案例2](https://github.com/livingworld/IA004_blockchain/blob/master/README.md)
 
 [如何写卡片](https://www.yangzhiping.com/psy/happy-new-year-faq3.html)
 
 [git使用简介](http://www.bootcss.com/p/git-guide/)
 
-[IA004_blockchain/README.md](https://github.com/livingworld/IA004_blockchain/blob/master/README.md)
