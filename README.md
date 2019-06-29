@@ -7,8 +7,8 @@
 
 |      日期      |                                                活动                                                 |
 | -------------- | -------------------------------------------------------------------------------------------------- |
-| ~~20190616(w4d0) ~~| [发布bp招募贴](https://github.com/livingworld/IA005_Simon/blob/master/delivery/%E6%8B%9B%E5%8B%9F%E8%B4%B4.md)                                                                                    |
-| ~~20190618(w4d2) ~~| 完成组队      团队成员：hetao，Alex，Trista，卢燕<br>观察员：舟舟，知知知知鸟，慕明昭，小何heshenxian,子微 |
+| ~~20190616(w4d0)~~| [发布bp招募贴](https://github.com/livingworld/IA005_Simon/blob/master/delivery/%E6%8B%9B%E5%8B%9F%E8%B4%B4.md)                                                                                    |
+| ~~20190618(w4d2)~~| 完成组队      团队成员：hetao，Alex，Trista，卢燕<br>观察员：舟舟，知知知知鸟，慕明昭，小何heshenxian,子微 |
 | ~~20190618(w4d3)~~ | [发布bp组队成功介绍](https://github.com/livingworld/IA005_Simon/blob/master/delivery/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md)                                                                               |
 
 ### 执行中
@@ -19,7 +19,7 @@
 |         |~~20190620(4wd4)~~| 小组    | 自我介绍、初心、BP的想法、确定协作工具、熟悉下一步计划 |  [破冰会议纪要](https://github.com/livingworld/IA005_Simon/issues/2)：达成目标，按数据源的获取途径分工  |
 | |~~20190620(4wd4)~~| 课程组   | 第一次结业 bp 交流会                                        | |
 |          |~~20190622(4wd6)~~| 小组    | 确定详细分工，分头采集数据                                   | [第二次会议纪要](https://github.com/livingworld/IA005_Simon/issues/1)，下一步各成员扩展信息搜索范围，不做限制|
-| 信息整理 | ~~20190625(5wd2) ~~| 小组    | 整合资料， 下一步分工                                       |  [20190626 第三次小组会议](https://github.com/livingworld/IA005_Simon/issues/3):分工协作，从各自的方向推进  |
+| 信息整理 | ~~20190625(5wd2)~~| 小组    | 整合资料， 下一步分工                                       |  [20190626 第三次小组会议](https://github.com/livingworld/IA005_Simon/issues/3):分工协作，从各自的方向推进  |
 |         | ~~20190629(5wd6)~~ | 小组    | 深入挖掘,整理文档                                          |  [20190629 第四次小组会议](https://github.com/livingworld/IA005_Simon/issues/4)：明确项目进度及预路演可能时间，开始整理手头所有完成的工作 |
 |         | 20190630(6wd0) | 小组    |   汇总手头所有工作，明确最终分工                        |                   |
 | 信息加工 | 20190702(6wd2) | 小组    | 开始输出，整理文档                                          |                   |
